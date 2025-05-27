@@ -4,7 +4,6 @@ metadata:
   name: valaxy-regapp
   labels: 
      app: regapp
-
 spec:
   replicas: 1
   selector:
